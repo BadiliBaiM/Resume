@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Power BI, MS Excel, Python, MATLAB/Simulink
 
 ## Education
-- B.S., Electrical and Electronics Engineering | JNTU GV Vizianagaram (_2019-2023_)
+- B.Tech., Electrical and Electronics Engineering | JNTU GV Vizianagaram (_2019-2023_)
 - 12th/HSC, General | Sri Chaitanya College, Guntur (_2017-2019_)
 - 10th/SSC, General | KGBV, Guntur (_2015-2017_)
 
