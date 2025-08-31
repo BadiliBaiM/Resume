@@ -1,5 +1,5 @@
 title: Badili Bai Mudavathu
-logo: /assets/Badili pic.png
-description: text below image
+logo: /asset/Badili pic.png
+#description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
